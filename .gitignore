@@ -1,0 +1,6 @@
+db.sqlite3
+.idea/
+geckodriver.log
+*.pyc
+learning_log/__pycache/
+ll_env/
